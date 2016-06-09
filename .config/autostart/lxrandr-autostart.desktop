@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=LXRandR autostart
+Comment=Start xrandr with my custom settings
+Exec=/home/moiri/bin/monitor-hotplug.sh
+Treminal=true

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Encoding=UTF-8
+Type=Application
+Name=Music Player Daemon
+Comment=Server for playing audio files
+Exec=/home/moiri/bin/mpd-start.sh

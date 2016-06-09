@@ -1,0 +1,23 @@
+[user]
+	name = Simon Maurer
+	email = moirelein@gmail.com
+[merge]
+	tool = meld
+[color]
+	diff = auto
+	status = auto
+	branch = auto
+	interactive = auto
+[alias]
+	st = status
+	ct = commit
+	co = checkout
+	br = branch
+	hist = log --oneline --graph --all --decorate
+	ctags = !.git/hooks/ctags
+[push]
+	default = simple
+[init]
+	templatedir = ~/.git_template
+[core]
+	excludesfile = ~/.gitignore
