@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Dropbox
+GenericName=Cloud Client
+X-GNOME-FullName=Dropbox Cloud Client
+Comment=Synchronize files with Dropbox
+Exec=/home/moiri/.dropbox-dist/dropboxd
+Icon=dropbox
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Network;FileTransfer;Cloud;
